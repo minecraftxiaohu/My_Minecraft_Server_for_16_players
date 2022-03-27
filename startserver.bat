@@ -1,0 +1,1 @@
+jre1.8.0_321\bin\java.exe -jar forge-1.12.2-14.23.5.2859.jar -Xms1024MB -Xmx1024MB -XX:+AggressiveOpts -XX:+UseG1GC
