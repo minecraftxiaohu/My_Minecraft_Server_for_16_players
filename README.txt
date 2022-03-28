@@ -1,1 +1,6 @@
+因为服务器区域原因，本文件暂时只有中文（简体）版本。
+Due to the server area, this document is currently only available in Chinese (Simplified) version.
 
+本Minecraft服务器是由Forge官网下载的1.12.2的installer文件执行了"java -jar forge-1.12.2-14.23.5.2859-installer.jar -install"命令后构建的文件使用"startserver.bat"文件进行启动运行的服务器。在此向minecraft.net和minecraftforge.net表示感谢！
+本服务器一共添加了1个mod，文件名为...
+...
