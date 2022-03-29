@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2022-03-29 16:01:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2022-03-22 16:10:09 +0800"
@@ -1234,6 +1240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2022-03-29 16:01:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-03-23 15:08:57 +0800"
@@ -1255,6 +1267,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2022-03-28 16:35:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2022-03-29 16:01:31 +0800"
     },
     "done": true
   },
