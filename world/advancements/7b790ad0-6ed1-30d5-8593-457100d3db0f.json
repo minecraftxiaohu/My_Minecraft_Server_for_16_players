@@ -892,6 +892,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie": "2022-03-30 10:11:56 +0800",
       "spider": "2022-03-25 09:33:08 +0800",
       "enderman": "2022-03-25 10:07:41 +0800"
     },
