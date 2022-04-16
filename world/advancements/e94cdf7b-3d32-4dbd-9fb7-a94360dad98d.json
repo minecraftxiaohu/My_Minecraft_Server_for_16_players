@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2022-04-15 11:09:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2022-04-09 14:17:17 +0800"
@@ -302,6 +308,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2022-04-14 16:21:49 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2022-04-09 14:17:17 +0800"
@@ -356,6 +368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2022-04-14 07:54:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2022-04-09 14:17:17 +0800"
@@ -396,6 +414,7 @@
       "apple": "2022-04-11 08:59:30 +0800",
       "potato": "2022-04-12 11:34:01 +0800",
       "bread": "2022-04-09 14:25:32 +0800",
+      "golden_apple": "2022-04-14 08:43:37 +0800",
       "beetroot": "2022-04-12 10:21:46 +0800",
       "cooked_rabbit": "2022-04-11 08:55:42 +0800",
       "cooked_chicken": "2022-04-09 14:46:19 +0800",
@@ -407,6 +426,18 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2022-04-09 14:17:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2022-04-14 08:47:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2022-04-15 11:18:11 +0800"
     },
     "done": true
   },
@@ -536,6 +567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2022-04-14 07:54:05 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-04-09 16:01:57 +0800"
@@ -647,6 +684,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2022-04-09 14:17:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2022-04-15 10:56:28 +0800"
     },
     "done": true
   },
@@ -890,6 +933,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2022-04-14 16:21:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2022-04-15 11:18:11 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-04-09 16:01:57 +0800"
@@ -904,14 +959,18 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2022-04-14 08:47:44 +0800",
+      "wither_skeleton": "2022-04-15 11:30:24 +0800",
       "zombie_villager": "2022-04-09 14:43:15 +0800",
       "magma_cube": "2022-04-13 13:49:58 +0800",
       "skeleton": "2022-04-09 14:45:49 +0800",
       "husk": "2022-04-09 14:44:05 +0800",
+      "blaze": "2022-04-15 11:27:27 +0800",
       "cave_spider": "2022-04-09 15:20:38 +0800",
       "zombie": "2022-04-11 09:04:53 +0800",
       "witch": "2022-04-13 10:02:10 +0800",
       "spider": "2022-04-09 14:30:31 +0800",
+      "ghast": "2022-04-15 10:56:28 +0800",
       "creeper": "2022-04-09 14:45:54 +0800",
       "enderman": "2022-04-09 14:46:15 +0800"
     },
@@ -920,6 +979,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2022-04-09 14:59:14 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_the_recipe": "2022-04-15 11:27:38 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2022-04-15 11:27:39 +0800"
     },
     "done": true
   },
@@ -956,6 +1027,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2022-04-09 16:01:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2022-04-15 11:27:39 +0800"
     },
     "done": true
   },
@@ -1085,6 +1162,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2022-04-15 11:27:27 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2022-04-09 14:17:17 +0800"
@@ -1148,6 +1231,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-04-09 16:01:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-04-15 11:11:05 +0800"
     },
     "done": true
   },
@@ -1355,6 +1444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2022-04-14 16:21:46 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2022-04-09 14:22:41 +0800"
@@ -1451,6 +1546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2022-04-15 11:27:27 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2022-04-09 14:22:41 +0800"
@@ -1505,6 +1606,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-04-15 11:27:27 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2022-04-09 14:17:17 +0800"
@@ -1514,6 +1621,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2022-04-09 14:22:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2022-04-15 11:32:39 +0800"
     },
     "done": true
   },
@@ -1572,6 +1685,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2022-04-12 08:54:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2022-04-15 11:09:02 +0800"
     },
     "done": true
   },
@@ -1725,6 +1844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2022-04-15 11:09:02 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-04-09 14:22:41 +0800"
@@ -1830,6 +1955,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2022-04-09 14:17:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2022-04-15 11:32:39 +0800"
     },
     "done": true
   },
