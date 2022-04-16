@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "35379f8b-d07a-4d6b-9972-6b9c2cdca508",
+    "name": "YING_RJ",
+    "level": 3,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "85f373f3-faca-30e1-b783-97f74b4a33a3",
     "name": "xiao_hu520",
     "level": 4,
@@ -20,7 +26,7 @@
   {
     "uuid": "d7aeb55d-7a1e-3ae5-9a44-2c134b19838b",
     "name": "XiAoChEn",
-    "level": 3,
+    "level": 2,
     "bypassesPlayerLimit": false
   },
   {
