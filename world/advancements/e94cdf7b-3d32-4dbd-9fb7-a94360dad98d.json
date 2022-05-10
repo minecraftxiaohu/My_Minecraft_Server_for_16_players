@@ -386,6 +386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2022-05-03 10:27:01 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2022-04-09 14:22:41 +0800"
@@ -411,6 +417,7 @@
       "cooked_beef": "2022-04-09 14:32:26 +0800",
       "beef": "2022-04-09 16:18:40 +0800",
       "baked_potato": "2022-04-12 11:38:40 +0800",
+      "porkchop": "2022-05-03 10:42:29 +0800",
       "apple": "2022-04-11 08:59:30 +0800",
       "potato": "2022-04-12 11:34:01 +0800",
       "bread": "2022-04-09 14:25:32 +0800",
