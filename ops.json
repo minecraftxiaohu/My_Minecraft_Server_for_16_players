@@ -9,19 +9,19 @@
     "uuid": "85f373f3-faca-30e1-b783-97f74b4a33a3",
     "name": "xiao_hu520",
     "level": 4,
-    "bypassesPlayerLimit": false
+    "bypassesPlayerLimit": true
   },
   {
     "uuid": "132f5c38-1950-4469-9767-6b7a5279a8d8",
     "name": "Minecraft小胡",
     "level": 4,
-    "bypassesPlayerLimit": false
+    "bypassesPlayerLimit": true
   },
   {
     "uuid": "1fe2be82-82f3-3e79-9acd-ccaa62b27c01",
     "name": "Minecraft小胡",
     "level": 4,
-    "bypassesPlayerLimit": false
+    "bypassesPlayerLimit": true
   },
   {
     "uuid": "d7aeb55d-7a1e-3ae5-9a44-2c134b19838b",
@@ -30,10 +30,10 @@
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "8a9fd15e-a84f-3fdf-8339-268992003538",
-    "name": "minecraftс��",
+    "uuid": "f2e6080e-c3f7-48a0-96ec-f03ebf5b4cd2",
+    "name": "xiao_hu520",
     "level": 4,
-    "bypassesPlayerLimit": false
+    "bypassesPlayerLimit": true
   },
   {
     "uuid": "a869f27e-ae71-393f-a0ed-92f3d7ef94a6",
